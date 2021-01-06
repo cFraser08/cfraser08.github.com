@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Let's go Skiing</title>
+  </head>
+  <style>
+    
+    body {
+      background-color: #edf6f9;
+  
+    
+    }
+
+    
+
+    .content {
+      width: 960px;
+      margin: 0 auto;
+      padding: 10px 25px;
+      border: 2px solid whitesmoke;
+      background: white;
+    }
+
+    h1 {
+      color: #274c77;
+      font-size: 40px;
+      line-height: 48px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      padding:60px;
+    }
+
+    h2 {
+      color: #62b6cb;
+      text-align: center;
+      line-height: 38px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 24px;
+      padding: 15px;
+      margin: 60px, 10px;
+      font-weight:100; 
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    li {
+      list-style: none;
+      font-family: Arial;
+      font-size: 24px;
+      padding: 30px;
+      color: #0081a7;
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    li:hover {
+      background: #98c1d9;
+      color: #ffffff;
+    }
+
+    p {
+      font-family: sans-serif;
+      font-size: 18px;
+      line-height: 24px;
+      padding: 15px 0;
+      margin: 0 auto;
+      display: block;
+      color: #f07167;
+      text-align: center;
+      max-width: 800px;
+      border-style: line;
+    }
+
+    p:hover {
+      color: white;
+      background: #f2c6b4;
+
+    
+    }
+
+
+    .food {
+      color: #0081a7;
+    }
+
+    .resorts {
+      color: #0081a7;
+    }
+
+    h3 {
+      font-family: sans-serif;
+      font-size: 24px;
+      text-align: center;
+      padding: 10px;
+      color: #0f4c75;
+    }
+
+    h4 {
+      font-family: monospace;
+      font-size: 16px;
+      text-align: center;
+    }
+
+    button {
+      display: block;
+      margin: 0 auto 0 auto;
+      padding: 20px 20px;
+      font-size: 16px;
+      border: 1px solid #00b7c2;
+      background: #00b7c2;
+      color: white;
+      border-radius: 30px;
+      transition: all 300ms ease-in-out;
+      box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+    }
+
+    button:hover {
+      cursor: pointer;
+      background: #ffffff;
+      color: #00b7c2;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+      padding: 20px;
+      max-width: 100%;
+      border-radius: 20px;
+    }
+  </style>
+
+
+
+
+  <body>
+    <h1>
+      Never been on a ski holiday?
+      <br />
+      Here are 5 reasons why you should... ⛷️
+      <br />
+    </h1>
+    <div class="content">
+
+     
+
+
+
+      <h2>
+        From learning a new sport, to seeing some of the most breathtaking views
+        in the world, a ski holiday really has something for everyone. Here are
+        my top 5 reasons why you should switch from the sunny beach to the snowy
+        slopes.
+      </h2>
+
+
+      <ul>
+        <li>
+          <strong> 1. Beat those January Blues ❄️ </strong>
+        </li>
+        <p>
+          It is normal to feel a bit down after all the festivities of Christmas
+          are over. So why not give yourself something to look forward too, like
+          a week long trip away with family or friends in a winter wonderland.
+          With activities such as huskey rides, sleding, and ice-skating, you'll
+          be able to find something for everyone. Let the holiday countdown
+          begin!
+        </p>
+
+        <img
+          src="https://images.unsplash.com/photo-1505873346750-69ce3daeb225?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+          alt="Skiing with friends"
+          width="500"
+        />
+
+        <li>
+          <strong> 2. Exercise in the great outdoors 🏔️ </strong>
+        </li>
+        <p>
+          It is easy to hibernate during those gloomy winter days, but skiing
+          and snowboarding is a great way to get you outside, learn a new skill
+          and connect with nature . Vitamin D isn’t always easy to find come the
+          winter-time, but skiing all day will have you soaking up those winter
+          rays, breathing in that fresh mountain air and getting some postcard
+          perfect views. Although it is snowy, don’t forget your sunscreen
+          (unless you <em>really</em> want to rock the goggle tan look!)
+        </p>
+
+        <img
+          src="https://images.unsplash.com/photo-1491555103944-7c647fd857e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+          alt="Zermatt"
+          width="500"
+        />
+
+        <li><strong> 3. Food, glorious (Mountain) food! 🧀 </strong></li>
+        <p>
+          With all that exercise and outdoor air, you will find yourself
+          extremely hungry come your last run of the day. Luckily, there will be
+          an abundance of mountain huts that will satisfy your needs. Get ready
+          to gorge on fondues, Tiroler grostl, schnitzels, hot chocolate,
+          strudel... the list goes on and on!
+
+        </br> 
+        Want to learn more? Click <a href=https://www.telegraph.co.uk/travel/ski/articles/The-ultimate-ski-holiday-food-guide/"
+        target="blank"
+        class="food"> here </a> 
+        </p>
+
+        <img
+          src="https://images.unsplash.com/photo-1512594282804-b5f400408c9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60"
+          alt="fondue cheese"
+          width="500"
+        />
+
+        <li><strong> 4. It's good to laugh 🎿 </strong></li>
+        <p>
+          The biggest fear of skiing is making a fool of yourself. Holidays are
+          meant to be fun, not painful right? Tuition is the best way to ensure
+          you are safe and confident whilst on the busy slopes. Whilst, I cannot
+          deny that you will probably fall over at some point, you will learn
+          how to do so safely and in control. Even the most professional looking
+          geezers fall (if anything, they fall more than most) Trust me, no one
+          is looking at you ski. The only thing that will be bruised, is your
+          ego, so keep it light hearted and be sure to bring a go pro to laugh
+          those moments!
+        </p>
+
+        <img
+          src="https://images.immediate.co.uk/production/volatile/sites/3/2017/08/117894.png?webp=true&quality=90&resize=461%2C273"
+          alt="Bridget Jones"
+          width="500"
+        />
+
+        <li><strong> 5. Apre ski, Apre ski, Apre ski 🍻 </strong></li>
+        <p>
+          Get ready for oompah bands, lederhosens and some interesting covers of
+          your favourite songs. The Apre bar really be the star of the show.
+          After a full morning of carving the slopes, you can enjoy an evening
+          of drinks, singing and dancing on the tables. It isn’t a proper ski
+          holiday until you have attended a high-altitude party- plus, your
+          beers will have no problem staying cold. Need I go on? If you are sold
+          on an Apre Ski heavy holiday, best sure to do some research as to
+          which ski resort has the best Apre scene.
+        </br>
+           Click<a
+            href="https://www.sno.co.uk/ski-resort/best-apres-ski-resorts"
+            target="blank"
+            class="resorts"
+          >
+            here
+          </a>
+          for the best apre ski resorts
+        </p>
+
+        <img
+          src="https://blog.skisolutions.com/wp-content/uploads/2018/12/Snowbombing.jpg"
+          alt="Apre ski"
+          width="500"
+        />
+      </ul>
+
+      <button>so, Fancy going on a ski holiday?</button>
+
+      <h4>
+        Coded by Chloe 💻
+        <br />
+        @Chloe_fraserr on twitter & Instagram- come say hi!👋
+      </h4>
+    </div>
+    <script>
+      let contactButton = document.querySelector("button");
+
+      contactButton.addEventListener("click", pressHere);
+
+      function greetUser() {
+        let name = prompt("Hello 👋, what is your name?");
+
+        let h1 = document.querySelector("h1");
+        h1.innerHTML =
+          "Hey " +
+          name +
+          " 👋, Here are 5 reasons why you should book a ski holiday!";
+      }
+
+      greetUser();
+
+      function pressHere() {
+        let experience = prompt(
+          "How many times have you been on a ski holiday?"
+        );
+
+        if (experience < 4) {
+          alert(
+            "you should look at Les Deux Alpes, it is perfect for beginners! 🚡"
+          );
+        } else {
+          alert(
+            "Have you thought about skiing in the Dolomites, Italy? it's perfect for more advanced skiiers/snowborders🏂  "
+          );
+        }
+      }
+    </script>
+  </body>
+</html>
